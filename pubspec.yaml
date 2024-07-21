@@ -1,0 +1,40 @@
+name: fashion_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  flutter_slidable: ^3.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets\onboarding.png
+  - assets\login.png
+  - assets\item1.png
+  - assets\item2.png
+  - assets\item3.png
+  - assets\item4.png
+  - assets\color1.png
+  - assets\color2.png
+  - assets\color3.png
+  - assets\american.png
+  - assets\XMLID_328_.png
+  - assets\visa.png
+  - assets\paypal.png
+  - assets\ipay.png
+  - assets\map.png  
+
+  
